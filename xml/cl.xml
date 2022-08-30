@@ -7030,5 +7030,6 @@ server's OpenCL/api-docs repository.
                 <command name="clGetImageRequirementsInfoEXT"/>
             </require>
         </extension>
+        <extension name="cl_intel_queue_no_sync_operations"
     </extensions>
 </registry>
